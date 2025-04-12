@@ -1,2 +1,3 @@
 # Barbie-Data-Analysis
-This dashboard has data as a way to discover the factors behind the success of the Barbie movie (2023)
+This dashboard has data as a way to discover the factors behind the success of the Barbie movie (2023). 
+A Google form was circulated amongst college groups at Lady Shri Ram College for Women, for young women to answer a few questions relating to the Barbie movie starring Margot Robbie, Ryan Gosling, America Ferrera. The Greta Gerwig directed film had a huge pop culture moment, with everyone showing up in pink to watch the movie in theatres. Apart from the solid marketing campaign launched for the movie, including the red carpet outfits, the Barbie Space Odyssey trailer, and the famous Barbenheimer moment, there were multiple factors that led people to go to the theatres. This analysis aims to uncover what the major reasons were for audiences to see the movie in big numbers.
